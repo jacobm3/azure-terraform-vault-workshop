@@ -779,7 +779,7 @@ We are not actually building anything yet. This is just a dry run, showing us wh
 name: set-prefix
 Set the Prefix Variable
 -------------------------
-Rename the **terraform.tfvars.example** file to **terraform.tfvars**.  
+Rename the **terraform.tfvars.example** file to **terraform.tfvars** 
 
 Change where it says "yourname" to your own name. No spaces or special characters please. Keep it all lowercase. Save the file.
 
